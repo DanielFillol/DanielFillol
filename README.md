@@ -8,7 +8,7 @@ Hello, my name is Daniel Fillol, I have a degree in history and law, but since 2
 - 🤔 I’m looking for help with how to contribute in open source
 - 💬 Ask me about how my career led me here
 - 💬 Ask me about social project's I'm involved
-- 📫 How to reach me: @danielFillol on instagran
+- 📫 How to reach me: @danielfillol on instagran
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: big fantastic novels fan (LOTR, HP, GOT), Classical Literature and modern philosophy
 
