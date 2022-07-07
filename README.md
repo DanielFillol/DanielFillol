@@ -10,7 +10,7 @@ Hello, my name is Daniel Fillo, i have a degree in history and law, but since 20
 - 💬 Ask me about social project's I'm involved
 - 📫 How to reach me: @danielFillol on instagran
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: big fantastic novels fan (LOTR, HP, GOT), Classical Literature and modern Filosofy
+- ⚡ Fun fact: big fantastic novels fan (LOTR, HP, GOT), Classical Literature and modern philosophy
 
 
 <div>
