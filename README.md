@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Daniel Fillo, i have a degree in history and law, but since 2013 I study technology. I'm currently doing a MBA in Full-Stack-Development on FIAP. 
+Hello, my name is Daniel Fillol, I have a degree in history and law, but since 2013 I study technology. I'm currently doing a MBA in Full-Stack-Development on FIAP. 
 
 - 🔭 I’m currently working at Jusbrasil
 - 🌱 I’m currently learning everything i can to become a full stack developer
