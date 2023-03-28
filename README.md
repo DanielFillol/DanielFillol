@@ -14,8 +14,8 @@ Hello, my name is Daniel Fillol, I have a degree in history and law, but since 2
 
 
 <div>
-<a href="https://github.com/Darklabel91">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darklabel91&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darklabel91&layout=compact&langs_count=7&theme=highcontrast"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darklabel91&theme=highcontrast"&" alt="Darklabel91"/>
+<a href="https://github.com/DanielFillol">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFillol&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFillol&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFillol&theme=highcontrast"&" alt="DanielFillol"/>
 </div> 
